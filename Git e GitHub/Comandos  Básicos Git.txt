@@ -1,0 +1,12 @@
+Comando Básicos do git
+
+git clone - clonar repositorio na maquina local
+
+git status - status da branch atual
+
+git add . - adiciona os arquivos ao repositorio
+
+git commit -m "mensagem de commit" - commita e deixa uma mensagem
+
+git push origin main - envia os commits do repositorio local para o servidor
+
