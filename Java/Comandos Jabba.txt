@@ -1,0 +1,7 @@
+jabba ls-remote - mostra as versoes disponiveis para download
+
+jabba install - instala a versão desejada
+
+jabba use - 
+
+jabba -version - mostra a versão instalada
